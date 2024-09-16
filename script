@@ -33,4 +33,4 @@ end)
  
 getgenv().gui = false
  
-loadstring(game:HttpGet("https://egorikusa.space/c7385da2ea1c00bc02f8cb87.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/ebb37d4fb5e09d01abffa301.lua", true))()
